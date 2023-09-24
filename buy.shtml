@@ -1,0 +1,90 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>YoYoToronto - Where to buy yoyos</title>
+	<link rel="stylesheet" type="text/css" href="style.css"/>
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans|Oswald|Montserrat" />
+	<meta name="description" content="Toronto Yo-Yo Club" />
+	<meta name="keywords" content="yo-yo, yoyo, yoyos, toronto, yoyoing, canada, ontario" />
+	<meta property="og:image" content="http://www.yoyotoronto.com/preview_pic.jpg" />
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-5759566-3']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<script type="text/javascript">
+function close_nats_box()
+{
+    var box = document.getElementById("nats-box");
+    
+    box.style.display = "none";
+}
+</script>
+</head>
+
+<body>
+<div id="frame">
+    <div id="banner">
+    <a href="https://www.facebook.com/groups/yoyotoronto/"><img src="F_icon.png"/></a>
+    <a href="https://www.instagram.com/yoyotoronto/"><img src="insta_icon.png"/></a>
+    <a href="mailto:contact@yoyotoronto.com"><img src="email_icon.png"/></a>
+    
+    
+
+	<div id="menu">
+        <a href="index.shtml">Meet</a>
+        <a href="learn.shtml">Learn</a>
+        <a id="this-page" href="buy.shtml">Buy</a>
+    </div>
+    
+    </div>
+
+	<div class="content">
+
+    	<h1>Where to buy yo-yos?</h1>
+        
+        <p class="small">Disclaimer: YoYoToronto does not provide customer support for any retailers listed below.</p>
+        
+        <h2>Online retailers</h2>
+        <p>For the biggest and latest selections, we buy our yo-yos online. Our members have purchased from these retailers and found them reliable:</p>
+        <ul>
+        <li><a href="https://www.44emporium.com/" target="_blank">44 Emporium</a></li>
+        <li><a href="https://www.yoyoexpert.com" target="_blank">YoYoExpert</a></li>
+		<li><a href="https://www.yoyosam.com" target="_blank">YoYoSam</a></li>
+        <li><a href="https://www.yoyostorerewind.com" target="_blank">Yo-Yo Store REWIND</a></li>
+	    </ul>
+        <p>When making a purchase online, make sure to read the retailer's policies carefully (eg. currency, shipping, payment methods, etc)</p>
+        
+        <h2>Local stores in Toronto</h2>
+        <ul>        
+            <li>
+            <a href="http://treasureislandtoys.ca/" target="_blank">Treasure Island Toys</a> near Pape and Danforth (<a href="http://maps.google.com/maps?f=q&source=embed&hl=en&geocode=&q=Treasure+Island+Toys+Limited,+M4K+1P9&sll=43.68786,-79.369869&sspn=0.060824,0.154324&ie=UTF8&hq=Treasure+Island+Toys+Limited,&hnear=Toronto,+Ontario+M4K+1P9,+Canada&ll=43.678798,-79.346352&spn=0.023619,0.066047&z=15&iwloc=A" target="_blank">Map</a>)</li>
+            
+        </ul>
+                
+        <h2>From other club members</h2>
+
+	    <p>Occasionally some of our members would sell off their old yo-yos by posting  ads in our <a href="https://www.facebook.com/groups/yoyotoronto/" target="_blank">Facebook group</a>. On the contrary, potential buyers can also post requests to look for certain yo-yos. (Note that you must live in the Greater Toronto Area to make posts to buy or sell)</p>
+        
+        <p>Keep in mind that used yoyos can vary in conditions and prices. It's a good idea to look up how much they originally cost at one of the retailers above, and decide whether a deal is good.</p>
+        
+        
+        <h2>Know something we don't?</h2>
+	    <p>Tell us in our <a href="https://www.facebook.com/groups/yoyotoronto/" target="_blank">Facebook group</a> or <a href="mailto:contact@yoyotoronto.com">send us an email</a>!</p>
+        
+	</div>
+
+    
+</div>
+</body>
+
+</html>
+

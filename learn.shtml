@@ -1,0 +1,73 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>YoYoToronto - Learn to yo-yo</title>
+	<link rel="stylesheet" type="text/css" href="style.css"/>
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans|Oswald|Montserrat" />
+	<meta name="description" content="Toronto Yo-Yo Club" />
+	<meta name="keywords" content="yo-yo, yoyo, yoyos, toronto, yoyoing, canada, ontario" />
+	<meta property="og:image" content="http://www.yoyotoronto.com/preview_pic.jpg" />
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-5759566-3']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<script type="text/javascript">
+function close_nats_box()
+{
+    var box = document.getElementById("nats-box");
+    
+    box.style.display = "none";
+}
+</script>
+</head>
+
+<body>
+<div id="frame">
+    <div id="banner">
+    <a href="https://www.facebook.com/groups/yoyotoronto/"><img src="F_icon.png"/></a>
+    <a href="https://www.instagram.com/yoyotoronto/"><img src="insta_icon.png"/></a>
+    <a href="mailto:contact@yoyotoronto.com"><img src="email_icon.png"/></a>
+    
+    
+
+	<div id="menu">
+        <a href="index.shtml">Meet</a>
+        <a id="this-page" href="guide.shtml">Learn</a>
+        <a href="buy.shtml">Buy</a>
+    </div>
+    
+    </div>
+
+	<div class="content">
+
+    	<h1>Just getting started?</h1>
+        
+        <p>Great! Check out <a href="http://yoyoexpert.com/learn/" target="_blank">YoYoExpert.com</a> and <a href="http://yoyotricks.com/yoyo-tricks/" target="_blank">YoYoTricks.com</a>. You will find video instructions on the basics of yo-yos: from putting the yo-yo on your hand and winding the string, to throwing properly and learning some of your first tricks.</p>
+        
+        
+        <h1>After the basics, what's next?</h1>
+        <p>If you look around youtube, there is no shortage of advanced yo-yo trick tutorials, many of which are developed by very creative people. The Canadian Yo-yo Association has a <a href="http://www.canadayoyo.ca/learn.html" target="_blank">compilation</a> of some of the best ones out there.</p>
+        
+        <h1>How do I stay updated?</h1>
+        <p>Make sure you check the <a href="http://www.canadayoyo.ca/" target="_blank">Canadian Yo-yo Association (CANYA)'s website</a> often. They provide resources to connect you to other yo-yo clubs, contests, and events happening in Canada and around the world.</p>
+        
+        <h1>Still have questions?</h1>
+        <p>Send us an email at <a href="mailto:contact@yoyotoronto.com">contact@yoyotoronto.com</a>. We'd be happy to answer your questions!</p>
+        
+	</div>
+
+    
+</div>
+</body>
+
+</html>
+

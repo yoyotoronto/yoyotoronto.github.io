@@ -1,0 +1,87 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>YoYoToronto - Club Meetings</title>
+	<link rel="stylesheet" type="text/css" href="style.css"/>
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans|Oswald|Montserrat" />
+	<meta name="description" content="Toronto Yo-Yo Club" />
+	<meta name="keywords" content="yo-yo, yoyo, yoyos, toronto, yoyoing, canada, ontario" />
+	<meta property="og:image" content="http://www.yoyotoronto.com/preview_pic.jpg" />
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-5759566-3']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+<script type="text/javascript">
+function close_nats_box()
+{
+    var box = document.getElementById("nats-box");
+    
+    box.style.display = "none";
+}
+</script>
+</head>
+
+<body>
+<div id="frame">
+    <div id="banner">
+    <a href="https://www.facebook.com/groups/yoyotoronto/"><img src="F_icon.png"/></a>
+    <a href="https://www.instagram.com/yoyotoronto/"><img src="insta_icon.png"/></a>
+    <a href="mailto:contact@yoyotoronto.com"><img src="email_icon.png"/></a>
+    
+    
+
+	<div id="menu">
+        <a id="this-page" href="index.shtml">Meet</a>
+        <a href="learn.shtml">Learn</a>
+        <a href="buy.shtml">Buy</a>
+    </div>
+    
+    </div>
+
+	<div class="content">
+               
+        
+    	<h1>Meeting information</h1>
+        
+        <div class="info-box">
+			For information about the latest meeting, see our <a href="https://www.facebook.com/groups/yoyotoronto/" target="_blank">Facebook group</a>
+        </div>
+        
+        
+
+	    <h2>Time and location</h2>
+		<p>Meetings are held once a month, in which the exact date is announced in the <a href="https://www.facebook.com/groups/yoyotoronto/" target="_blank">Facebook group</a>. We meet in the lobby of Bahen Centre in the University of Toronto downtown (<a href="https://maps.google.ca/maps?q=Bahen+Centre+for+Information+Technology,+Saint+George+Street,+Toronto,+ON&hl=en&sll=43.659994,-79.396246&sspn=0.003446,0.008256&oq=bahen&t=m&z=17&iwloc=A" target="_blank">Map</a>). The meetings usually last for a few hours and disperse at around 5 or 6pm. </p>
+		
+		<!--<p>
+		Meeting locations alternate between the campuses of <strong>University of Toronto (downtown)</strong> and <strong>York University (Keele)</strong>. In UofT we meet in the lobby of Bahen Centre for Information Technology (<a href="https://maps.google.ca/maps?q=Bahen+Centre+for+Information+Technology,+Saint+George+Street,+Toronto,+ON&hl=en&sll=43.659994,-79.396246&sspn=0.003446,0.008256&oq=bahen&t=m&z=17&iwloc=A" target="_blank">Map</a>), and in York we meet in the atrium in Vari Hall (<a href="https://www.google.ca/maps/place/Vari+Hall/@43.773042,-79.503556,17z/data=!4m2!3m1!1s0x0000000000000000:0x0244f1cd950ff986" target="_blank">Map</a>). Both locations are indoors, so the weather is not a factor. The meetings usually last for a few hours and disperse at around 5 or 6pm.</p>-->
+
+	    <h2>Who can attend meetings?</h2>
+	    <p>Anyone! Regardless of your skill, age, gender, etc, if you'd like to yoyo, you can attend. Bring your friends and families if you like!</p>
+
+	    <h2>How do I attend?</h2>
+	    <p>Just show up. The meetings are really not much more than friends hanging out, so there are no obligations on what time to arrive or leave. Feel free to introduce yourself in the <a href="https://www.facebook.com/groups/yoyotoronto/" target="_blank">Facebook group</a> beforehand so we can expect you; otherwise, surprise us. If you have yoyos, go ahead and bring them with you. If you don't, we're more than happy to let you play with ours.</p>
+
+
+        
+		<!--
+	    <h2>What do meetings look like?</h2>
+	    <p>Like this! (video by Jeffrey Pang)</p>
+	    <iframe width="800" height="450" src="http://www.youtube.com/embed/VlmqnMGILuc?rel=0" frameborder="0" allowfullscreen></iframe>
+	   -->
+	</div>
+
+    
+</div>
+</body>
+
+</html>
+
